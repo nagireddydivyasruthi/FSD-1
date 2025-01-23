@@ -1,0 +1,21 @@
+<head>
+<title>Image Demo</title>
+</head>
+<body>
+<p align="center">
+<img src="sasi.png">
+<h1 style="color:blue;" align="center ">DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING</h1><hr>
+<h2 style="color:red;" align="center">FULLSTACK DEVELOPMENT</h2>
+<h2>LIST OF EXPERIMENTS</h2>
+<ol>
+<li>HTML INTRODUCTION</li>
+<li>HISTORY OF HTML</li>
+<li>HTML ELEMENTS</li>
+<li>HTML TAGS</li>
+<li>HTML ATTRIBUTES</li>
+<li>HTML LINK TAGS</li>
+</ol>
+</p>
+</body>
+</html>
+
